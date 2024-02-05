@@ -48,6 +48,11 @@ Me apasiona la creación de soluciones innovadoras y desafiar los límites en la
 
 
 ¡Conectémonos, colaboremos e innovemos juntos! ✨
+
+---
+
+Mis Proyectos personales
+- [InazumaQuiz](https://github.com/NicolasRodriguezSteuerberg/InazumaQuiz)
 <!--
 **NicolasRodriguezSteuerberg/NicolasRodriguezSteuerberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
