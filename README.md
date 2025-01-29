@@ -8,8 +8,8 @@ Me apasiona la creación de soluciones innovadoras y desafiar los límites en la
 
 ### Que hago?:
 
-- 💡 **Intereses:** Desarrollo de Software | Administración de Bases de Datos
-- 🌱 **Aprendizaje:** Estudiando DAM2 para ampliar mis conocimientos en aplicaciones multiplataforma.
+- 💡 **Intereses:** Desarrollo Backend | Administración de Bases de Datos
+- 🌱 **Aprendizaje:** Estudiando y prácticando desarrollo de aplicaciones backend con Spring Framework
 - 🤝 **Colaboración:** Abierto a colaborar en proyectos interesantes para poder expandir mis conocimientos y habilidades.
 ---
 
@@ -17,6 +17,7 @@ Me apasiona la creación de soluciones innovadoras y desafiar los límites en la
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="java" width="40" height="40"/></a>
 <br>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
