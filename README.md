@@ -12,8 +12,8 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=NicolasRodriguezSteuerberg&theme=dark&date_format=j%20M%5B%20Y%5D" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasrodriguezsteuerberg&show_icons=true&locale=en" alt="nicolasrodriguezsteuerberg" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasrodriguezsteuerberg&show_icons=true&locale=es&layout=compact" alt="nicolasrodriguezsteuerberg" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasrodriguezsteuerberg&show_icons=true&locale=en&theme=dark" alt="nicolasrodriguezsteuerberg" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasrodriguezsteuerberg&show_icons=true&locale=es&layout=compact&theme=dark" alt="nicolasrodriguezsteuerberg" /></p>
 </div>
 
 ### Lenguajes y herramientas:
