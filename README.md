@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasrodriguezsteuerberg&show_icons=true&locale=en" alt="nicolasrodriguezsteuerberg" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasrodriguezsteuerberg&show_icons=true&locale=es&layout=compact" alt="nicolasrodriguezsteuerberg" /></p>
 </div>
