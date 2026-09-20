@@ -7,14 +7,6 @@ Desarrollador orientado al backend con experiencia en la construcción de APIs, 
 - **Aprendiendo**: Redis caching, Actualizaciones en tiempo real
 - **Stack principal**: Spring Boot, Java, PostgreSQL
 
-
-## Sobre mi:
-- Técnico de Aplicaciones Multiplataformas
-- **Intereses**: Desarrollo backend (APIs) | Bases de datos
-- **Aprendizaje**:
-  - Backend con Spring Boot
-  - Frontend con React + TypeScript
-
 ---
 
 <div align="center">
