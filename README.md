@@ -78,6 +78,7 @@ Desarrollador orientado al backend con experiencia en la construcción de APIs, 
 - **[Race Conditions](https://github.com/NicolasRodriguezSteuerberg/PoC_RaceConditions)**: Evaluación de concurrencia en APIs probando peticiones simultáneas contra PostgreSQL mediante implementaciones de bloqueos optimista y pesimista.
 - **[RabbitMQ](https://github.com/NicolasRodriguezSteuerberg/PoC_RabbitMQ)**: Implementación de colas de mensajería configurando *Topic Exchanges* y *Routing Keys* para la comunicación asíncrona.
 - **[Kafka](https://github.com/NicolasRodriguezSteuerberg/PoC_Kafka)**: Configuración de productores y consumidores en Spring Boot gestionando el mapeo de tipos JSON.
+- **[Live Sync](https://github.com/NicolasRodriguezSteuerberg/PoC_LiveSync)**: Implementación de comunicación en vivo mediante Server-Sent Events (SSE) y WebSockets con STOMP, escalando eventos entre múltiples instancias con Redis Pub/Sub.
 ---
 
 ### Contacto:
